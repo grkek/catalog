@@ -37,8 +37,8 @@ shards:
 - github: grip-framework/grip
   description: A microframework for building RESTful web applications, with ease and
     joy
-- github: grkek/grip
-  description: An object-oriented framework based on Kemal with additional goodness
+- github: grip-framework/grip
+  description: A microframework for building RESTful web applications, with ease and joy
 - github: adlerhsieh/iceberg
   description: A full-stack web framework
 - github: kemalcr/kemal
